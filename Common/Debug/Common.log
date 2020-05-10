@@ -1,0 +1,36 @@
+﻿  Assets.cpp
+  Camera.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  GameTimer.cpp
+  Keyboard.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshGeometry.cpp
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Vector2.cpp
+  Vector3.cpp
+  正在產生程式碼...
+  正在編譯...
+  Vector4.cpp
+  Win32Keyboard.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Win32Mouse.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Win32Window.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Window.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  Common.vcxproj -> C:\Users\Walter\Documents\Dissertation\Demonstration\Win32\Debug\Common.lib
