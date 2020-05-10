@@ -1,0 +1,10 @@
+﻿  glad.c
+  OGLComputeShader.cpp
+  OGLMesh.cpp
+  OGLRenderer.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  OGLShader.cpp
+  OGLTexture.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  OpenGLRendering.vcxproj -> C:\Users\Walter\Documents\Dissertation\Demonstration\Win32\Debug\OpenGLRendering.lib
