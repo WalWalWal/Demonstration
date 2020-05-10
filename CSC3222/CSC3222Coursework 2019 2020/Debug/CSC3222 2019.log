@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (CSC3222 2019.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  CSC3222.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Laser.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  BadFoodGame.cpp
+C:\Users\Walter\Documents\Dissertation\Demonstration\Common\Keyboard.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  CSC3222 2019.vcxproj -> C:\Users\Walter\Documents\Dissertation\Demonstration\Win32\Debug\CSC3095.exe
